@@ -1,7 +1,7 @@
 {
-  "name": "credit-doc",
+  "name": "kaiju-doc",
   "version": "1.0.0",
-  "description": "credit doc",
+  "description": "kaiju doc",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goodbigtree/credit.github.io.git"
+    "url": "git+https://github.com/goodbigtree/kaiju.github.io.git"
   },
   "author": "frank",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goodbigtree/credit.github.io.git/issues"
+    "url": "https://github.com/goodbigtree/kaiju.github.io.git/issues"
   },
-  "homepage": "https://github.com/goodbigtree/credit.github.io.git#readme",
+  "homepage": "https://github.com/goodbigtree/kaiju.github.io.git#readme",
   "devDependencies": {
     "vuepress": "^0.14.8"
   }
