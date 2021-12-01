@@ -3,7 +3,7 @@ module.exports = {
     '@vuepress/back-to-top': {},
     '@vuepress/active-header-links': {}
   },
-  base: '/',
+  base: '/kaiju/',
   title: '亚信云基础架构文档',
   description: 'Vuepress kaiju doc',
   head: [

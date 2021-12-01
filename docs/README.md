@@ -4,7 +4,7 @@ heroImage: /logo.png
 heroText: kaiju-dos
 tagline: 亚信云
 actionText: 快速上手 →
-actionLink: /kaiju/plan.md
+actionLink: /kaiju/
 features:
 - title: 亚信云简介
   details: 提供企业级sass平台
